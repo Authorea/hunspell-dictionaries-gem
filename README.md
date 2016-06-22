@@ -1,10 +1,15 @@
 # Hunspell Dictionaries
 
+[![license](https://img.shields.io/badge/license-GPLv2-blue.svg)](https://raw.githubusercontent.com/authorea/LaTeXML-Ruby/master/LICENSE)
+[![Gem Version](https://badge.fury.io/rb/hunspell-dictionaries.svg)](https://badge.fury.io/rb/hunspell-dictionaries)
+
 Pakages the [Libreoffice hunspell dictionaries](https://github.com/LibreOffice/dictionaries) as a Gem.
+
+We use this module at [Authorea](http://www.authorea.com) for spellchecking our user’s documents.
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this line to your application’s Gemfile:
 
 ```ruby
 gem 'hunspell-dictionaries'
