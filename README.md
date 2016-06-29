@@ -5,7 +5,7 @@
 
 Pakages the [Libreoffice hunspell dictionaries](https://github.com/LibreOffice/dictionaries) as a Gem.
 
-We use this module at [Authorea](http://www.authorea.com) for spellchecking our user’s documents.
+We use this module at [Authorea](http://www.authorea.com) for spellchecking our authors' LaTeX and MarkDown sources written in the [ACE](https://ace.c9.io/#nav=about) editor.
 
 ## Installation
 
